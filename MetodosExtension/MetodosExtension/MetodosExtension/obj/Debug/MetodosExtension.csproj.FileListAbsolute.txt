@@ -1,0 +1,7 @@
+C:\Users\valenciag\Documents\Hitss\C#\MetodosExtension\MetodosExtension\MetodosExtension\bin\Debug\MetodosExtension.exe.config
+C:\Users\valenciag\Documents\Hitss\C#\MetodosExtension\MetodosExtension\MetodosExtension\bin\Debug\MetodosExtension.exe
+C:\Users\valenciag\Documents\Hitss\C#\MetodosExtension\MetodosExtension\MetodosExtension\bin\Debug\MetodosExtension.pdb
+C:\Users\valenciag\Documents\Hitss\C#\MetodosExtension\MetodosExtension\MetodosExtension\obj\Debug\MetodosExtension.csprojAssemblyReference.cache
+C:\Users\valenciag\Documents\Hitss\C#\MetodosExtension\MetodosExtension\MetodosExtension\obj\Debug\MetodosExtension.csproj.CoreCompileInputs.cache
+C:\Users\valenciag\Documents\Hitss\C#\MetodosExtension\MetodosExtension\MetodosExtension\obj\Debug\MetodosExtension.exe
+C:\Users\valenciag\Documents\Hitss\C#\MetodosExtension\MetodosExtension\MetodosExtension\obj\Debug\MetodosExtension.pdb
